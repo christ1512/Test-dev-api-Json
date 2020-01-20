@@ -27,13 +27,13 @@ http://localhost:4000/jsonplaceholder/postsSingleUser/:"id del usuario del cual 
 7. Ver un unico post con su autor y comentarios
 http://localhost:4000/jsonplaceholder/postsUnique/:id del post que desea ver
  
-8.Agregar un comentario a algun post
+8. Agregar un comentario a algun post
 http://localhost:4000/jsonplaceholder/addComments/:el id del post al cual le vamos a dejar un comentario
 
-9.Modificar comentario
+9. Modificar comentario
 http://localhost:4000/jsonplaceholder/modifyComments/:id del comentario a modificar
 
-10.Eliminar comentario
+10. Eliminar comentario
 http://localhost:4000/jsonplaceholder/deleteComments/:id del comentario a eliminar
 
 # Ojo-  La CARPETA "otros ejercicios" comtienen los ejercicios resultos de un recorrepalabra y el numero que mas se repite (moda)
