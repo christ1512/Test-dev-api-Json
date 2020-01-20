@@ -36,8 +36,8 @@ http://localhost:4000/jsonplaceholder/modifyComments/:id del comentario a modifi
 10. Eliminar comentario
 http://localhost:4000/jsonplaceholder/deleteComments/:id del comentario a eliminar
 
-# Ojo-  La CARPETA "otros ejercicios" comtienen los ejercicios resultos de un recorrepalabra y el numero que mas se repite (moda)
-Ademas son accesibles des de la api mediante las rutas:
+# Ojo-  La CARPETA "otros ejercicios" comtiene los ejercicios resultos del recorrepalabra y el numero que mas se repite (moda)
+Ademas son accesibles desde la api mediante las rutas:
 
 #Para el ejercicio del recorre palabras con limite
 http://localhost:4000/ejercios/palabra/aaaaaabbbbbbbccc/3
